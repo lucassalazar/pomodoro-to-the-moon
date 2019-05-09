@@ -50,8 +50,6 @@ body {
   outline: none;
 }
 
-
-
 #work-settings button:hover,
 #break-settings button:hover {
   color: gold; 
@@ -91,7 +89,6 @@ body {
 #control button:hover {
   color: #fff;
 }
-
 
 .footer-space {
   position: fixed;
