@@ -54,6 +54,7 @@ resetBtn.addEventListener('click', () => {
   clearInterval(countdown);
   clearInterval(countMove);
   remainingSeconds = workTime * 60;
+  time = workTime * 60;
   interval = displacement/time;
   countdown = 0;
   start = 0;
