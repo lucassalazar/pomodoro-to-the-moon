@@ -5,7 +5,7 @@ body {
 }
 
 .title {
-  margin: 5% 0% 5% 0%;
+  margin: 5% 0% 2% 0%;
   display: block;
   font-size: 60px;
   color: #00ff41;
@@ -22,12 +22,14 @@ body {
 }
 
 .work {
-  display: inline-block;
+  /* display: inline-block; */
+  padding: 20px 10px;
   margin-bottom: 10px;
 }
 
 .break {
-  display: inline-block;
+  padding: 20px 10px;
+  /* display: inline-block; */
   margin-bottom: 10px;
 }
 
@@ -61,6 +63,7 @@ body {
   margin-bottom: 2%;
   color: gold;
   font-weight: bold;
+  clear: both;
 }
 
 #time {
